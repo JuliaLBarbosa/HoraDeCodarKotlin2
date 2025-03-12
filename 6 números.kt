@@ -40,8 +40,8 @@ fun main(){
         soma = soma + n6
     }
 
-    println("A soma dos números será: " + soma)
-    println("O primeiro número: " + n1 + " O segundo número será: " + n2 +
-    " o terceiro número: " + n3 + " o quarto número: " + n4 + " O quinto número: " + n5 +
-    "o sexto número: " + n6)
+    println("A soma dos números menor que 72 será: " + soma)
+    println("O primeiro número foi: " + n1 + ", o segundo número foi: " + n2 +
+    ", o terceiro foi: " + n3 + ", o quarto número: " + n4 + ", o quinto número: " + n5 +
+    ", o sexto número foi: " + n6)
 }
